@@ -1,0 +1,9 @@
+Package: com.speed.menu
+Name: SpeedMenuTweak
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Floating Speed Menu
+Maintainer: Dva11
+Author: Dva11
+Section: Tweaks
